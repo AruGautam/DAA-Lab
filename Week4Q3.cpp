@@ -26,4 +26,4 @@ int main() {
         delete []arr;
     }
 }
-© 2022 GitHub, Inc.
+
